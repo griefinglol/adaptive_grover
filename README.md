@@ -39,10 +39,10 @@ data/
 
 Example distribution from our dataset:
 
-![Results Visualization](heavy_tail.jpg)
-![Results Visualization](normal.jpg)
-![Results Visualization](quasi_unifrom.jpg)
-![Results Visualization](unifrom.jpg)
+![Results Visualization](data/heavy_tail.jpg)
+![Results Visualization](data/normal.jpg)
+![Results Visualization](data/quasi_unifrom.jpg)
+![Results Visualization](data/unifrom.jpg)
 
 The distribution graph shows the probability distribution of datasets.
 
