@@ -62,12 +62,12 @@ python3 data_process.py
 
 4. Run the quantum_step.py, do adaptive grover search on each database:
 ```bash
-python quantum_step.py
+python3 quantum_step.py
 ```
 
 5. Run the script `compare.py` to analyze and compare the number of steps required to locate each piece of data using classical versus quantum approaches:
 ```bash
-python quantum_step.py
+python3 compare.py
 ```
 
 
